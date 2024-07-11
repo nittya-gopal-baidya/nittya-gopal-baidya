@@ -16,7 +16,8 @@
 
 ⚡ With solid experience in **full-stack web development**, I thrive on creating and enhancing **web applications**. <br>
 ✔️ Let's connect and collaborate!<br>
-
+<!--NOMINATION FOR STAR GIT LINK CODE-->
+<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
  </div>
  
 <div align="center"> 
