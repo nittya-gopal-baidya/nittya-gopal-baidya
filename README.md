@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently pursuing MCA from **JNU** New Delhi
+ 👨‍💻 I’m currently pursuing MCA from **JNU**🌐New Delhi
  
  🌱 I’m currently learning **Full Stack Web Development**
 
