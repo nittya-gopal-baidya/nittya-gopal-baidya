@@ -1,5 +1,6 @@
 <!-- ================= TOP ANIMATED BANNER ================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Nittya%20Gopal%20Baidya&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Nittya%20Gopal%20Baidya&fontSize=50&fontColor=ffffff&animation=fadeIn" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4285F4,100:34A853&height=250&section=header&text=Nittya%20Gopal%20Baidya&fontSize=48&fontColor=ffffff&animation=twinkling" />
 
 <!-- ================= TYPING INTRO ================= -->
 <h1 align="center">
