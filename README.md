@@ -15,9 +15,9 @@
 
 - 🎓 MCA Graduate | **Jawaharlal Nehru University, New Delhi**  
 - 🌱 Learning **Advanced Java, Spring Boot, React & System Design**  
-- 💻 Strong in **DSA, Full Stack Development & Backend APIs**
-- 🔹 Open for **Internships & Full-Time SDE Roles**
-- ⚡ With solid experience in **full-stack web development, I thrive on creating and enhancing web applications**
+- 💻 Strong in **DSA, Full Stack Development & Backend APIs**  
+- 🔹 Open for **Internships & Full-Time SDE Roles**  
+- ⚡ With solid experience in **full-stack web development, I thrive on creating and enhancing web applications**  
 
 <hr/>
 
@@ -37,20 +37,7 @@
   </a>
 </div>
 
-
-
-
-
-  
-  <!-- Portfolio (Optional) -->
-  <!--
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-  </a>
-  -->
-</div>
 <hr/>
-
 
 <!-- ================= TECH STACK ================= -->
 ## ⚒️ Languages, Frameworks & Tools  
@@ -62,14 +49,20 @@
 
 <hr/>
 
-<!-- ================= BACKEND FOCUS ================= -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br/>
+<!-- ================= STATS ================= -->
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=nittya-gopal-baidya&theme=nightowl" /><br/>
 </div>
 
-<br/><br/>
 <hr/>
-<br/>
+
+<!-- ================= SNAKE ANIMATION ================= -->
+## 🐍 Contribution Snake  
+
+<div align="center">
+  <img src="https://github.com/nittya-gopal-baidya/nittya-gopal-baidya/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+<hr/>
